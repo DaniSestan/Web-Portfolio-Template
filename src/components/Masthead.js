@@ -12,7 +12,6 @@ const styles = theme => ({
         backgroundAttachment: 'fixed',
         //change path to match image file
         backgroundImage: `url(/images/masthead-background.png)`,
-        // background: '#161415 contain left bottom',
         backgroundSize: 'cover !important',
     },
     //mobile background
