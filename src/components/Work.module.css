@@ -1,0 +1,60 @@
+.gridListTileWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: hidden;
+}
+.gridList {
+    /*width: 1000px;*/
+    padding: 2em !important;
+}
+@media screen and (max-width: 991px) {
+    .gridList {
+        /*width: 800px;*/
+        /*height: 300px;*/
+    }
+}
+.workOuterWrapper {
+    background: url(/images/portfolio-background.jpg) no-repeat top center;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 2em;
+}
+.headerGridItem {
+    padding: 1em;
+}
+.header {
+    /*font-size: 3em !important;*/
+    padding-top: 2em;
+    padding-bottom: 1em;
+    text-transform: uppercase;
+}
+@media screen and (max-width: 658px) {
+    .header {
+        font-size: 1.1em !important;
+    }
+}
+.tileBar {
+    text-align: center !important;
+}
+.tileBarTitle {
+    font-size: 1.2em;
+    white-space: normal;
+}
+.tileBarSubtitle {
+    padding-top: 2em !important;
+    font-size: 2em;
+    line-height: 1.1em;
+    font-style: italic;
+    white-space: normal;
+}
+.xsRes {
+    max-width: 400px;
+}
+.smRes {
+    
+}

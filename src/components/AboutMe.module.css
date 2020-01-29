@@ -1,0 +1,120 @@
+.aboutMePageWrapper {
+    padding-top: 0em;
+    padding-bottom: 2em;
+}
+@media screen and (min-width: 992px) {
+    .aboutMePageWrapper {
+        padding-top: 2em;
+        padding-bottom: 4em;
+    }    
+}
+.placeholder {
+    height: 2em;
+}
+@media screen and (max-width: 659px) {
+    .contentDesktopTablet {
+        display: none;
+    }
+}
+@media screen and (min-width: 660px) {
+    .contentMobile {
+        display: none;
+    }
+}
+.imageContainer {
+    height: 26em;
+    width: 26em;
+    margin: 2em;
+    padding-top: 1em;
+}
+@media screen and (max-width: 991px) {
+    .imageContainer {
+        height: 20em;
+        width: 20em;
+    }
+    .aboutMePageTextGridItem {
+        width: 50%;
+    }
+}
+@media screen and (min-width: 660px) {
+    .imageGridContainerMobile {
+        display: none !important;
+    }
+}
+.imageGridItemMobile {
+    height: 80%;
+    width: 80%;
+    padding-bottom: 1em;
+}
+.image {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.aboutMePageTextGridItem {
+    width: 50%;
+    margin: 1em;
+}
+.bioGridItem{
+    padding-bottom: .5em;   
+}
+.contactDetailsAndResumeGridItemDesktop {
+    padding-top: .5em;
+    width: 100%;
+}
+@media screen and (max-width: 659px) {
+    .contactDetailsAndResumeGridItemDesktopTablet {
+        display: none;
+    }
+}
+.contactDetailsAndResumeGridItemMobile {
+    padding-top: .5em;
+    width: 100%;
+}
+@media screen and (min-width: 660px) {
+    .contactDetailsAndResumeGridItemMobile {
+        display: none;
+    }
+}
+.contactGridItem {
+    padding-right: 2em;
+    width: 50%;
+}
+.contactDetails {
+    padding-left: .5em;
+    white-space: nowrap;
+}
+.resumeGridItem {
+    padding-left: 2em;
+}
+@media screen and (max-width: 991px) {
+    .resumeGridItem {
+        padding-left: 0 !important;
+        padding-top: 2em;
+    }
+}
+.bioHeader {
+    text-align: left;
+    font-size: 6em !important;
+    font-weight: 200 !important;
+}
+@media screen and (max-width: 991px) {
+    .bioHeader {
+        font-size: 5.5em !important;
+    }    
+}
+@media screen and (max-width: 659px) {
+    .bioHeader {
+        font-size: 5em !important;
+        text-align: center !important;
+    }
+}
+.contactHeader {
+    font-size: 3em !important;
+    font-weight: 200 !important;
+}
+.credentialsLink {
+    font-size: 1.25em !important;
+    text-align: center;
+    padding-top: 2em;
+}

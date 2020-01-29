@@ -1,0 +1,25 @@
+.typography {
+    font-family: Ubuntu !important;
+    color: rgba(255, 255, 255, 0.5)
+}
+.textLeft {
+    padding: 1em;
+}
+.textRight {
+    padding: 1em;
+}
+.divider {
+    height: 2vh !important;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+}
+@media screen and (max-width: 659px) {
+    .divider {
+        display: none !important;
+    }
+    .textLeft {
+        padding-bottom: 0em !important;
+    }
+    .textRight {
+        padding-top: 0em !important;
+    }
+}

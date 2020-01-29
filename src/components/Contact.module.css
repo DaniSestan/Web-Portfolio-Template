@@ -1,0 +1,26 @@
+.formElement {
+    padding: 5em;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.gridWrapper {
+    border: solid;
+    padding: 2em;
+}
+.typographyHdr {
+    padding-bottom: .5em;
+}
+.input {
+    padding-bottom: 2em;
+}
+.textArea {
+    width: 20em;  
+    height: 10em !important;
+}
+.submitWrapper {
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

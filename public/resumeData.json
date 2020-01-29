@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Peter Parker",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "description": "I'm a <your city>-based <your occupation>. Include a brief headline describing who you are and what you do.",
+    "tagline": "Lorem ipsum dolor",
+    "subtitle": "Lorem",
+    "subtitle2": "Ipsum",
+    "subtitle3": "Dolor",
+    "image": "/images/self-portrait.png",
+    "bio": "Welcome to my web portfolio! Here, include a brief bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+    "email": "youremail@gmail.com",
+    "phone": "(555) 555-5555",
+    "address": {
+      "street": "20 Ingram St.",
+      "city": "Forest Hills",
+      "state": "NY",
+      "zip": "11375"
+    },
+    "resumeFile": "/documents/resume.pdf",
+    "socialUrl": {
+      "github": "https://github.com/example",
+      "linkedIn": "https://www.linkedin.com/in/unavailable/",
+      "twitter": "https://twitter.com/example",
+      "facebook": "https:/facebook.com/FreeSamplePage",
+      "instagram": "https://instagram.com/example/"
+    }
+  },
+  "resume":{
+    "education":[
+      {
+        "school": "Empire State University",
+        "graduation": "2000",
+        "program" : "Master's of Biochemistry",
+        "description": "Here, enter a brief description of your educational experience. Include why you attended, any accomplishments or awards, important major-related courses or projects, any research involvement, information about a thesis, etc."
+      },
+      {
+        "school": "Empire State University",
+        "program" : "Bachelor's of Biophysics",
+        "graduation": "1998",
+        "description": "Here, enter a brief description of your educational experience. Include why you attended, any accomplishments or awards, important major-related courses or projects, any research involvement, information about a thesis, etc."
+      }
+    ],
+    "experience":[
+      {
+        "company":"Parker Industries",
+        "title":"CEO and Founder",
+        "years":"April 2006 - Current",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "company":"Midtown High School",
+        "title":"Instructor of Chemistry",
+        "years":"August 2001 - May 2005",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    ],
+    "skillsDescription": "Here, enter a brief skills section headline. Something along the lines of... 'Here, you can find a few of the technologies and languages that genuinely interest me at the moment. I'm never hesitant to work with new platforms and try different tools, so I see this list continuing to evolve and change over time.'",
+    "skills":[
+      {
+        "image": "Linux.png",
+        "name": "Linux",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Git.png",
+        "name":"Git",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "React.png",
+        "name":"React",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Java.png",
+        "name":"Java",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Python.png",
+        "name": "Python",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Spring.png",
+        "name":"Spring",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "AWS.png",
+        "name":"AWS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Backbone.png",
+        "name":"Backbone.js",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Bootstrap + Material-UI.png",
+        "name": "Bootstrap + Material-UI",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "medium"
+      },
+      {
+        "image": "Thymeleaf.png",
+        "name": "Thymeleaf",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      },
+      {
+        "image": "Selenium.png",
+        "name": "Selenium",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "imageSize": "small"
+      }
+    ]
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LOREM IPSUM DOLOR",
+        "description": "Lorem ipsum dolor sit amet",
+        "image": "checkmate.png",
+        "url": "https://github.com/example/test"
+      },
+      {
+        "title": "UT ENIM AD MINIM",
+        "description": "Lorem ipsum dolor sit amet",
+        "image": "checkmate-web.png",
+        "url": "https://github.com/example/test"
+      },
+      {
+        "title": "DOLORE MAGNA ALIQUA",
+        "description": "Lorem ipsum dolor sit amet",
+        "image": "react-web-portfolio-template.png",
+        "url": "https://github.com/example/test"
+      },
+      {
+        "title": "CONSECTETUR ADIPISCING",
+        "description": "Lorem ipsum dolor sit amet",
+        "image": "react-email-backend.png",
+        "url": "https://github.com/example/test"
+      }
+    ]
+  }
+}

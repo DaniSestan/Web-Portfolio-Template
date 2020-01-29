@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "author": "Dani Sestan",
+  "short_name": "Web Portfolio",
+  "name": "ReactJS Web Portfolio Template",
+  "version": "1.0.0",
+  "icons": [],
+  "background": {
+    "persistent": false,
+    "service_worker": ""
+  }
+}

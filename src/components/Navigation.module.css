@@ -1,0 +1,65 @@
+.typography {
+    font-family: Ubuntu !important;
+}
+.root {
+    z-index: 1;
+    position: fixed;
+    flex-grow: 1;
+}
+.menuIcon {
+    background-color: #ffffff;
+    border: solid;
+}
+.mobileMenu {
+    z-index: 1000;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+.closeButtonTypography {
+    font-size: 3em !important;
+    text-align: left;
+}
+.menuNavLinksGridItem {
+    display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;  /* TWEENER - IE 10 */
+    display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+    justify-content: center;
+    align-items: center;
+}
+.menuNavLinksTypography {
+    font-size: 3em !important;
+}
+.titleLogo {
+    text-align: center;
+    vertical-align: middle;
+}
+.title {
+    display: inline-block;
+    padding-right: 1em;
+}
+.tagline {
+    text-transform: lowercase;
+    display: inline-block;
+    padding-left: 1em;
+    word-spacing: 1em;
+}
+.links {
+    padding-left: 1em;
+}
+.link {
+    color: #616161;
+    text-align: right;
+    padding-right: 1em;
+    vertical-align: middle;
+}
+.icons {
+    padding-right: 1em;
+    padding-top: .5em;
+}
+.icon {
+    text-align: right;
+    padding-left: 1em;
+    vertical-align: middle;
+}

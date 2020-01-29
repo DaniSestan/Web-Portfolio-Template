@@ -1,0 +1,26 @@
+.containerWrapper {
+    position: absolute;
+    min-width: 100vw !important;
+    overflow: hidden;
+    -webkit-background-size: contain !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titleItem {
+    padding-bottom: 2em;
+}
+.title {
+    display: inline-block;
+}
+.subtitle {
+    font-size: 1em !important;
+    width: 90vw !important;
+    padding-top: 2em;
+}
+.subtitleItem {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

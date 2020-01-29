@@ -1,0 +1,17 @@
+.footerContainer {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1000;
+}
+.gridWrapper {
+    height: 100%;
+}
+.gridWrapper {
+    padding-bottom: 50px;
+}
+@media screen and (max-width: 658px) {
+ .gridWrapper {
+     padding-bottom: 10px;
+ }
+}
