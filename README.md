@@ -47,7 +47,7 @@ To change social icon fill color, search for the &lt;SocialIcons&gt; tags, and c
 To change anything beyond this, edit the component's module.css file.
 
 #### Images
-**public/images:** contains the masthead backgound (masthead-background.png), portfolio projects background (portfolio-background.png), and the profile image (self-porttrait.png).
+**public/images:** contains the masthead background (masthead-background.png), the mobile masthead background, the portfolio projects background (portfolio-background.png), and the profile image (self-porttrait.png).
 <em>YOU MUST KEEP THE SAME NAMES ON THESE IMAGES.</em>
 
 **public/images/tools:** contains the icons used in the Resume - Favorite Tools & Technologies section. Note that these image names must be the same as those referenced in the the tools object array of the resumeData.json file.
