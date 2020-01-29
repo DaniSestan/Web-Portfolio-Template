@@ -47,12 +47,12 @@ To change social icon fill color, search for the &lt;SocialIcons&gt; tags, and c
 To change anything beyond this, edit the component's module.css file.
 
 #### Images
-**public/images:** contains the masthead background (masthead-background.png), the mobile masthead background, the portfolio projects background (portfolio-background.png), and the profile image (self-porttrait.png).
-<em>YOU MUST KEEP THE SAME NAMES ON THESE IMAGES.</em>
+<u>public/images:</u> contains the masthead background (masthead-background.png), the mobile masthead background, the portfolio projects background (portfolio-background.png), and the profile image (self-porttrait.png).
+_YOU MUST KEEP THE SAME NAMES ON THESE IMAGES._
 
-**public/images/tools:** contains the icons used in the Resume - Favorite Tools & Technologies section. Note that these image names must be the same as those referenced in the the tools object array of the resumeData.json file.
+<u>public/images/tools:</u> contains the icons used in the Resume - Favorite Tools & Technologies section. Note that these image names must be the same as those referenced in the the tools object array of the resumeData.json file.
 
-**public/images/portfolio:** contains the images used in the grid list for portfolio projects. These image names must be the same as those referenced in the projects array of the resumeData.json file.
+<u>public/images/portfolio:</u> contains the images used in the grid list for portfolio projects. These image names must be the same as those referenced in the projects array of the resumeData.json file.
 
 ## ... & that's it.
 Enjoy your customized web portfolio.
