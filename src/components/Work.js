@@ -6,7 +6,6 @@ import GridList from "@material-ui/core/GridList";
 import GridListTile from "@material-ui/core/GridListTile";
 import GridListTileBar from "@material-ui/core/GridListTileBar";
 import Hidden from "@material-ui/core/Hidden";
-import Box from "@material-ui/core/Box";
 import axios from "axios";
 
 import workStyles from './Work.module.css';
