@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000/) to view it in the browser.
 
 ### Fill in your personal info:
 To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio, and images references in the tools section are to be placed in the public/images/tools folder. Replace the file public/documents/'resume.pdf' with a copy of your own resume (_note: you must keep the filename the same_).
-Remember to replace the site title in the title tag of public/index.html.
+Remember to replace the site title in public/index.html.
 
 ### Replace images and fonts:
 Next, you will want to replace the images, and fonts if you like, with your own.
