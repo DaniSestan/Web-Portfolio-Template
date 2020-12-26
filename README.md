@@ -1,7 +1,7 @@
 # ReactJS Web App Portfolio Template      
 ![ReactJS Resume Website Template](resume-screenshot.png "ReactJS Resume Website Template")
 ### <a href="https://web-portfolio-template.herokuapp.com/">LIVE DEMO</a> 
-#### (Be chill... Heroku may need a minute!)
+#### (Be chill... Heroku may need a minute to load the demo!)
 
 
 ## Description
