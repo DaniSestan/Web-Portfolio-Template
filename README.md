@@ -1,6 +1,8 @@
 # ReactJS Web App Portfolio Template      
 ![ReactJS Resume Website Template](resume-screenshot.png "ReactJS Resume Website Template")
 ### <a href="https://web-portfolio-template.herokuapp.com/">LIVE DEMO</a> 
+#### (Be chill... Heroku may need a minute!)
+
 
 ## Description
 This is a web portfolio template build with ReactJS. Once this project is cloned, only one step is required to customize the data with your own: fill in the values in the public/resumeData.json file. To alter fonts, backgrounds, and any images, just edit the properties in the 'styles' const at the top of each component file, and replace images in the public/images folder. The process is simple, it's fast, and it's explained below.
